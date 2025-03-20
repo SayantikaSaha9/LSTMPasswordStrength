@@ -86,11 +86,6 @@ pip install -r requirements.txt
 python LSTM_Password_Classifier.py
 ```
 
-## **Future Improvements**  
-- Explore transformer-based models (BERT, GPT) for better classification  
-- Implement an attention mechanism to improve sequence learning  
-- Deploy as a web-based password strength checker using Flask/FastAPI  
-
 ## **Author**  
 **Sayantika Saha**  
 [GitHub Profile](https://github.com/SayantikaSaha9)  
